@@ -1,0 +1,1 @@
+//Explique por que lista.push(novo) é um problema dentro de um componente React.

@@ -1,0 +1,1 @@
+//Dado o objeto p da questão 4, crie pEmPromocao com preço 20, sem alterar p.//

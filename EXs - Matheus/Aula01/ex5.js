@@ -1,0 +1,1 @@
+//Escreva uma função de seta chamada ehCaro que recebe um número e devolve verdadeiro se for maior que 100.//

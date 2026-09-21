@@ -1,0 +1,1 @@
+//Dado const p = { titulo: "Caneca", preco: 25 }, desestruture titulo e preco em uma linha.//

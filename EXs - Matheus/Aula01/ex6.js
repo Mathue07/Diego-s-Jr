@@ -1,0 +1,1 @@
+//Dado const cores = ["azul", "verde"], crie cores2 com "vermelho"no fim, sem alterar cores.//

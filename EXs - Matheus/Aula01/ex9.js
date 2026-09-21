@@ -1,0 +1,1 @@
+//O que está errado neste código? const total = precos.map((p) => { p * 2 });

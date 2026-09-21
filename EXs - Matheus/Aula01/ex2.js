@@ -1,0 +1,1 @@
+//Na mesma lista, escreva uma linha que produza só os números pares.//

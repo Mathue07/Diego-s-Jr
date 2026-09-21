@@ -1,0 +1,1 @@
+//Dado const nums = [1, 2, 3, 4], escreva uma linha que produza [2, 4, 6, 8].//
